@@ -1,0 +1,6 @@
+{
+  "name": "Madagascar Ernest Travel Tours",
+  "description": "Ultra-luxury bespoke private expeditions, wildlife safaris, and island getaways across Madagascar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
